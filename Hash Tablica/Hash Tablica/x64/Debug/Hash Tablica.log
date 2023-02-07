@@ -1,0 +1,17 @@
+﻿  ChainedHashTable.cpp
+  Cvor.cpp
+  LancanaLista.cpp
+  Source.cpp
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\ChainedHashTable.h(61,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\ChainedHashTable.h(59): message : while compiling class template member function 'void ChainedHashTable<int,int>::print(void)'
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\Source.cpp(16): message : see reference to function template instantiation 'void ChainedHashTable<int,int>::print(void)' being compiled
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\Source.cpp(7): message : see reference to class template instantiation 'ChainedHashTable<int,int>' being compiled
+C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\Hash Tablica\ChainedHashTable.h(60,20): warning C4930: 'HashObject<T,R> o(void)': prototyped function not called (was a variable definition intended?)
+          with
+          [
+              T=int,
+              R=int
+          ]
+  Generating Code...
+  Hash Tablica.vcxproj -> C:\Users\Nikola\Desktop\Faks\C++\Hash Tablica\x64\Debug\Hash Tablica.exe

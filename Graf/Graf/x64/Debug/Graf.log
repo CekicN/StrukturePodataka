@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+C:\Users\Nikola\Desktop\Faks\C++\Graf\Graf\Graph.cpp(190,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Graf.vcxproj -> C:\Users\Nikola\Desktop\Faks\C++\Graf\x64\Debug\Graf.exe

@@ -1,0 +1,8 @@
+﻿  BS.cpp
+C:\Users\Nikola\Desktop\Faks\C++\infixToTree\infixToTree\BS.h(37,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikola\Desktop\Faks\C++\infixToTree\infixToTree\BS.h(38,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Nikola\Desktop\Faks\C++\infixToTree\infixToTree\BS.h(37,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikola\Desktop\Faks\C++\infixToTree\infixToTree\BS.h(38,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  infixToTree.vcxproj -> C:\Users\Nikola\Desktop\Faks\C++\infixToTree\x64\Debug\infixToTree.exe

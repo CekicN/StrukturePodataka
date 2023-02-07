@@ -1,0 +1,16 @@
+﻿  Niz.cpp
+  Source.cpp
+C:\Users\Nikola\source\repos\1D polje\Niz.h(55,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Nikola\source\repos\1D polje\Niz.h(54): message : while compiling class template member function 'T &Niz<T>::operator [](long)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Nikola\source\repos\1D polje\Source.cpp(11): message : see reference to function template instantiation 'T &Niz<T>::operator [](long)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Nikola\source\repos\1D polje\Source.cpp(8): message : see reference to class template instantiation 'Niz<int>' being compiled
+  Generating Code...
+  1D polje.vcxproj -> C:\Users\Nikola\source\repos\1D polje\Debug\1D polje.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Nikola\Desktop\Faks\C++\Infix To Postfix\Infix To Postfix\main.cpp(16,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nikola\Desktop\Faks\C++\Infix To Postfix\Infix To Postfix\main.cpp(85,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Infix To Postfix.vcxproj -> C:\Users\Nikola\Desktop\Faks\C++\Infix To Postfix\x64\Debug\Infix To Postfix.exe

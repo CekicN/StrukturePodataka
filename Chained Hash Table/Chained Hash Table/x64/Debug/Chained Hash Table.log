@@ -1,0 +1,3 @@
+﻿  HashTable.cpp
+C:\Users\Nikola\Desktop\Faks\C++\Chained Hash Table\Chained Hash Table\HashTable.cpp(36,12): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Chained Hash Table.vcxproj -> C:\Users\Nikola\Desktop\Faks\C++\Chained Hash Table\x64\Debug\Chained Hash Table.exe

@@ -1,0 +1,6 @@
+﻿  LL.cpp
+  Source.cpp
+C:\Users\Nikola\source\repos\Stack\Source.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StackAsLinkedList.cpp
+  Generating Code...
+  Stack.vcxproj -> C:\Users\Nikola\source\repos\Stack\Debug\Stack.exe

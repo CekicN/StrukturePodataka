@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Nikola\source\repos\Lancane Liste\LancanaLista.h(118): error C4703: potentially uninitialized local pointer variable 'tmp' used
